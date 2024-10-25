@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Conhecimento',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quem é Matuê?',
+    'Matuê é um rapper e cantor brasileiro, conhecido por seu estilo único e letras que abordam temas como a vida nas periferias, ambições e experiências pessoais. Nascido em Fortaleza, ele ganhou destaque no cenário musical brasileiro a partir de 2019, com lançamentos que misturam trap, rap e elementos de música popular. Matuê é reconhecido por sua autenticidade e pela maneira como se conecta com seu público, sendo uma figura importante na nova geração do rap nacional. Seu álbum "Máquina do Tempo" e outros singles alcançaram grande sucesso, consolidando sua carreira e influênci'
 )
