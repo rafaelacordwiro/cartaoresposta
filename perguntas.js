@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Conhecimento',
     'Quem é Veigh?',
-    'Veigh é um rapper e compositor brasileiro, conhecido por sua habilidade lírica e por abordar temas como a vida nas periferias, desafios pessoais e questões sociais em suas músicas. Ele ganhou notoriedade na cena do rap nacional com seu estilo autêntico e suas letras impactantes. Veigh se destaca por sua versatilidade, misturando influências do trap e do rap tradicional. Com uma base de fãs crescente, ele tem se consolidado como uma das vozes importantes da nova geração do hip-hop no Brasil. Seu trabalho reflete tanto suas experiências pessoais quanto a realidade de muitos jovens nas comunidades.'
+    'Veigh é um rapper brasileiro conhecido por suas letras impactantes e seu estilo que combina trap e rap. Ele aborda temas sociais e experiências pessoais, ganhando destaque na cena do hip-hop nacional.'
 )
 
 criaCartao(
