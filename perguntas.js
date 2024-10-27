@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Conhecimento',
+    'Quantas horas tem uma semana?',
+    'Uma semana tem 168 horas'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quantos países tem o planeta terra?',
+    ' O mundo é formado por 193 países'
 )
 
 criaCartao(
