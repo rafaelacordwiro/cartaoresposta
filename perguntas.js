@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quantos países tem o planeta terra?',
-    ' O mundo é formado por 193 países'
+    ' O mundo é formado por 193 países.'
 )
 
 criaCartao(
